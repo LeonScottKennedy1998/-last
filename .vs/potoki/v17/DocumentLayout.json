@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Project MPT\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B Visual Studio\\C\u002B\u002B\\potoki\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E2E55E8-7FF5-4C1F-A8B0-53DA4A3E9682}|potoki\\potoki.vcxproj|D:\\Project MPT\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B Visual Studio\\C\u002B\u002B\\potoki\\potoki\\potoki.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2E2E55E8-7FF5-4C1F-A8B0-53DA4A3E9682}|potoki\\potoki.vcxproj|solutionrelative:potoki\\potoki.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "potoki.cpp",
+              "DocumentMoniker": "D:\\Project MPT\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B Visual Studio\\C\u002B\u002B\\potoki\\potoki\\potoki.cpp",
+              "RelativeDocumentMoniker": "potoki\\potoki.cpp",
+              "ToolTip": "D:\\Project MPT\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B Visual Studio\\C\u002B\u002B\\potoki\\potoki\\potoki.cpp",
+              "RelativeToolTip": "potoki\\potoki.cpp",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAEUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-14T16:37:57.982Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
